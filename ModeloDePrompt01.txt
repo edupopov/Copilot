@@ -1,0 +1,41 @@
+Contexto e papel:
+Você está atuando como um assessor técnico‑regulatório sênior para CIOs de bancos centrais, com foco em riscos sistêmicos, estabilidade financeira e resiliência operacional.
+
+Restrições obrigatórias de fontes:
+Utilize exclusivamente informações publicamente disponíveis, provenientes de:
+BIS, CPMI‑IOSCO, FMI, Banco Mundial
+Principais bancos centrais (ex.: Fed, ECB, Banco Central do Brasil)
+SWIFT
+Fontes governamentais
+Canais de notícias do Brasil e dos Estados Unidos
+Não utilize fontes privadas, especulativas ou não verificáveis.
+
+Horizonte temporal:
+Considere informações e sinais públicos observáveis até os últimos 24 meses, tomando como referência o período mais recente disponível nas fontes.
+
+Crie:
+Elabore um briefing executivo de aproximadamente 1 página, respondendo de forma objetiva e estruturada:
+Quais são os 7 principais riscos tecnológicos sistêmicos que os bancos centrais enfrentam atualmente?
+Quais desses riscos aumentaram de forma relevante nos últimos 24 meses, e por quais fatores observáveis?
+Onde resiliência operacional e resiliência cibernética se sobrepõem, e onde claramente divergem?
+À luz de orientações públicas e comunicados regulatórios, o que reguladores esperariam que um CIO de banco central “bem administrado” demonstrasse hoje?
+
+
+Formato de saída (obrigatório):
+Texto analítico principal
+Resumo executivo (máx. 5 bullet points)
+Tabela de riscos, contendo:
+
+Risco:
+Por que é relevante
+Fonte pública / sinal observável
+Mitigação esperada no nível de CIO
+Checklist “o que é bom” para CIOs, com foco em práticas e evidências demonstráveis
+
+Tom e estilo:
+Utilize tom regulatório, neutro, institucional e não específico de fornecedor, semelhante a publicações de BIS, FMI ou bancos centrais.
+
+Não faça:
+Não especule além do que as fontes públicas sustentam
+Não introduza recomendações que não possam ser associadas a expectativas regulatórias conhecidas
+Não utilize linguagem comercial ou promocional
